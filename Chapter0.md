@@ -212,3 +212,11 @@ void slidingWindow(string s, string t) {
 }
 ```
 
+
+
+
+
+# 股票买卖问题
+
+状态机
+
