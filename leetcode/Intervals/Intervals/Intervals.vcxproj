@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{51c5a7b8-0bbc-4bfa-a06b-360cc847386b}</ProjectGuid>
-    <RootNamespace>StateMachine</RootNamespace>
+    <ProjectGuid>{6856fb83-1132-4e13-bbe6-dc0eb66a66c2}</ProjectGuid>
+    <RootNamespace>Intervals</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,11 +142,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="leetcode121.h" />
-    <ClInclude Include="leetcode122.h" />
-    <ClInclude Include="leetcode123.h" />
-    <ClInclude Include="leetcode188.h" />
-    <ClInclude Include="leetcode714.h" />
+    <ClInclude Include="leetcode1288.h" />
+    <ClInclude Include="leetcode56.h" />
+    <ClInclude Include="leetcode986.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

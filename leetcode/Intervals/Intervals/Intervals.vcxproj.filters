@@ -20,19 +20,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="leetcode188.h">
+    <ClInclude Include="leetcode1288.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="leetcode121.h">
+    <ClInclude Include="leetcode56.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="leetcode122.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="leetcode123.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="leetcode714.h">
+    <ClInclude Include="leetcode986.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
