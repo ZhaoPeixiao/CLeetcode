@@ -1,0 +1,3 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\State_Machine.dir/objects.a
+G:\MinGW\bin\ar.exe cr CMakeFiles\State_Machine.dir/objects.a @CMakeFiles\State_Machine.dir\objects1.rsp
+G:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\State_Machine.dir/objects.a -Wl,--no-whole-archive -o State_Machine.exe -Wl,--out-implib,libState_Machine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\State_Machine.dir\linklibs.rsp

@@ -226,8 +226,18 @@ void slidingWindow(string s, string t) {
 
 # 打家劫舍
 
-
+DP
 
 
 
 # 区间合集
+
+先排序
+
+
+
+# NSUM
+
+map
+
+排序+双指针
