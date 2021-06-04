@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/TreeNode.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode114.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode116.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode226.h">
+			<Option target="Tree"/>
+		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/main.cpp">
 			<Option target="Tree"/>
 		</Unit>
