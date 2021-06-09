@@ -241,3 +241,28 @@ DP
 map
 
 排序+双指针
+
+
+
+# Tree
+
+
+
+# Package
+
+转化为DP问题
+
+
+
+# Git
+
+## 三个分区
+
+**working directory**： 工作目录，也就是我们肉眼能够看到的文件。 
+
+**stage/index area**: git add后，把把 work dir 中的修改添加到暂存区。git commit相关命令之后，就会把stage 中的修改保存到提交历史。
+
+**commit history**
+
+![img](https://labuladong.gitee.io/algo/images/git/1.jpeg)
+
