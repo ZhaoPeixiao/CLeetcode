@@ -13,7 +13,7 @@
 #include <iostream>
 
 void connectTwoNode(Node* node1, Node* node2){
-    if (node1 == NULL || node2 == NULL) {
+    if (node1 == nullptr || node2 == nullptr) {
         return;
     }
 
@@ -27,8 +27,8 @@ void connectTwoNode(Node* node1, Node* node2){
 
 
 Node* connect(Node* root) {
-    if (root == NULL) {
-        return NULL;
+    if (root == nullptr) {
+        return nullptr;
     }
     connectTwoNode(root->left, root->right);
     return root;

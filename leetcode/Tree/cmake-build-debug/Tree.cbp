@@ -83,6 +83,12 @@
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/TreeNode.h">
 			<Option target="Tree"/>
 		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode105.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode106.h">
+			<Option target="Tree"/>
+		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode114.h">
 			<Option target="Tree"/>
 		</Unit>
@@ -90,6 +96,9 @@
 			<Option target="Tree"/>
 		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode226.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode654.h">
 			<Option target="Tree"/>
 		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/main.cpp">
