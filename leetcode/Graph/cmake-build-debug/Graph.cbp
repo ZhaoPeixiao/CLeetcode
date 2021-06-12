@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Graph/leetcode22.h">
+			<Option target="Graph"/>
+		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Graph/leetcode797.h">
 			<Option target="Graph"/>
 		</Unit>

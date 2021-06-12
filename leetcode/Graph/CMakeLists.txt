@@ -3,4 +3,4 @@ project(Graph)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Graph main.cpp leetcode797.h)
+add_executable(Graph main.cpp leetcode797.h leetcode22.h)
