@@ -95,6 +95,9 @@
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode116.h">
 			<Option target="Tree"/>
 		</Unit>
+		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode1373.h">
+			<Option target="Tree"/>
+		</Unit>
 		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode226.h">
 			<Option target="Tree"/>
 		</Unit>
