@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tree">
-				<Option output="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Tree.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
+				<Option output="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Tree/fast">
-				<Option output="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Tree.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
+				<Option output="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,75 +63,84 @@
 					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree/fast"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tree/fast"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/TreeNode.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/TreeNode.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode105.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode105.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode106.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode106.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode114.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode114.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode116.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode116.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode1373.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode1373.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode226.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode222.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode230.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode226.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode450.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode230.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode652.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode236.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode654.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode297.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode700.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode450.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode701.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode652.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode95.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode654.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode96.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode700.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/leetcode98.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode701.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/main.cpp">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode95.h">
 			<Option target="Tree"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/Tree/CMakeLists.txt">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode96.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/leetcode98.h">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/main.cpp">
+			<Option target="Tree"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Tree/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

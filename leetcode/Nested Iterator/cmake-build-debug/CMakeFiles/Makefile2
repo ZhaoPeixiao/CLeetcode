@@ -62,16 +62,16 @@ RM = "G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Workshop\CLeetcode\leetcode\Tree
+CMAKE_SOURCE_DIR = "D:\Workshop\CLeetcode\leetcode\Nested Iterator"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/Tree.dir/all
+all: CMakeFiles/Nested_Iterator.dir/all
 
 .PHONY : all
 
@@ -81,36 +81,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/Tree.dir/clean
+clean: CMakeFiles/Nested_Iterator.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Tree.dir
+# Target rules for target CMakeFiles/Nested_Iterator.dir
 
 # All Build rule for target.
-CMakeFiles/Tree.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Tree"
-.PHONY : CMakeFiles/Tree.dir/all
+CMakeFiles/Nested_Iterator.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Nested_Iterator"
+.PHONY : CMakeFiles/Nested_Iterator.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/Tree.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Tree.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/Tree.dir/rule
+CMakeFiles/Nested_Iterator.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Nested_Iterator.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/Nested_Iterator.dir/rule
 
 # Convenience name for target.
-Tree: CMakeFiles/Tree.dir/rule
+Nested_Iterator: CMakeFiles/Nested_Iterator.dir/rule
 
-.PHONY : Tree
+.PHONY : Nested_Iterator
 
 # clean rule for target.
-CMakeFiles/Tree.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/clean
-.PHONY : CMakeFiles/Tree.dir/clean
+CMakeFiles/Nested_Iterator.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/clean
+.PHONY : CMakeFiles/Nested_Iterator.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

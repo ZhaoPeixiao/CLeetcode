@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Workshop/CLeetcode/leetcode/Tree/main.cpp" "D:/Workshop/CLeetcode/leetcode/Tree/cmake-build-debug/CMakeFiles/Tree.dir/main.cpp.obj"
+  "D:/Workshop/CLeetcode/leetcode/Nested Iterator/main.cpp" "D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/CMakeFiles/Nested_Iterator.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

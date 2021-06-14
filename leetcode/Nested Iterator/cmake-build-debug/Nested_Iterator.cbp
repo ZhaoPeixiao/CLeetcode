@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Nested_Iterator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nested_Iterator">
+				<Option output="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Nested_Iterator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nested_Iterator"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Nested_Iterator/fast">
+				<Option output="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Nested_Iterator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Nested_Iterator/fast"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/Nested Iterator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Nested Iterator/NestedInteger.h">
+			<Option target="Nested_Iterator"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Nested Iterator/leetcode341.h">
+			<Option target="Nested_Iterator"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Nested Iterator/main.cpp">
+			<Option target="Nested_Iterator"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Nested Iterator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

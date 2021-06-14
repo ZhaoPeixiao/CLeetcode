@@ -66,10 +66,10 @@ RM = "G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Workshop\CLeetcode\leetcode\Tree
+CMAKE_SOURCE_DIR = "D:\Workshop\CLeetcode\leetcode\Nested Iterator"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -98,9 +98,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\CMakeFiles D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\CMakeFiles" "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\Tree\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Workshop\CLeetcode\leetcode\Nested Iterator\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -129,17 +129,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Tree
+# Target rules for targets named Nested_Iterator
 
 # Build rule for target.
-Tree: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Tree
-.PHONY : Tree
+Nested_Iterator: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Nested_Iterator
+.PHONY : Nested_Iterator
 
 # fast build rule for target.
-Tree/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/build
-.PHONY : Tree/fast
+Nested_Iterator/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/build
+.PHONY : Nested_Iterator/fast
 
 main.obj: main.cpp.obj
 
@@ -147,7 +147,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -156,7 +156,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -165,7 +165,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Tree.dir\build.make CMakeFiles/Tree.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Nested_Iterator.dir\build.make CMakeFiles/Nested_Iterator.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -176,7 +176,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Tree
+	@echo ... Nested_Iterator
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
