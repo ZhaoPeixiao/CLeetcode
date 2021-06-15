@@ -113,6 +113,9 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/main.cpp">
 			<Option target="HW"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/stack.h">
+			<Option target="HW"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
