@@ -62,10 +62,10 @@ RM = "G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\workshop\CLeetcode\leetcode\HW
+CMAKE_SOURCE_DIR = D:\Workshop\CLeetcode\leetcode\HW
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\workshop\CLeetcode\leetcode\HW\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Workshop\CLeetcode\leetcode\HW\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/HW.dir/clean
 CMakeFiles/HW.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW.dir\build.make CMakeFiles/HW.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\HW.dir\build.make CMakeFiles/HW.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target HW"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target HW"
 .PHONY : CMakeFiles/HW.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/HW.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/HW.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Workshop\CLeetcode\leetcode\HW\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/HW.dir/rule
 
 # Convenience name for target.

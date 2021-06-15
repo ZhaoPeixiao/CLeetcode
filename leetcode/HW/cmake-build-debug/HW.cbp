@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HW">
-				<Option output="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/HW.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
+				<Option output="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/HW.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HW/fast">
-				<Option output="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/HW.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
+				<Option output="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/HW.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,51 +63,57 @@
 					<Add directory="g:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW/fast"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW/fast"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
+				<Option working_dir="D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/MinGW/bin/make.exe -f &quot;D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leecode70.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leecode70.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode200.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode200.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode213.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode213.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode22.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode22.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode45.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode408.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode452.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode439.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode547.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode45.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/leetcode63.h">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode452.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/main.cpp">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode547.h">
 			<Option target="HW"/>
 		</Unit>
-		<Unit filename="D:/workshop/CLeetcode/leetcode/HW/CMakeLists.txt">
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode63.h">
+			<Option target="HW"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/main.cpp">
+			<Option target="HW"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

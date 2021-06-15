@@ -1,4 +1,4 @@
-# Install script for directory: D:/workshop/CLeetcode/leetcode/HW
+# Install script for directory: D:/Workshop/CLeetcode/leetcode/HW
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/workshop/CLeetcode/leetcode/HW/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Workshop/CLeetcode/leetcode/HW/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
