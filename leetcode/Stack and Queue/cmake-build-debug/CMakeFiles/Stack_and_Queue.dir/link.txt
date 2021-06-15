@@ -1,0 +1,3 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Stack_and_Queue.dir/objects.a
+G:\MinGW\bin\ar.exe cr CMakeFiles\Stack_and_Queue.dir/objects.a @CMakeFiles\Stack_and_Queue.dir\objects1.rsp
+G:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Stack_and_Queue.dir/objects.a -Wl,--no-whole-archive -o Stack_and_Queue.exe -Wl,--out-implib,libStack_and_Queue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Stack_and_Queue.dir\linklibs.rsp
