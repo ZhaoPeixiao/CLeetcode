@@ -83,6 +83,9 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leecode70.h">
 			<Option target="HW"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode1426.h">
+			<Option target="HW"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode200.h">
 			<Option target="HW"/>
 		</Unit>
@@ -108,6 +111,9 @@
 			<Option target="HW"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode63.h">
+			<Option target="HW"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leetcode752.h">
 			<Option target="HW"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/main.cpp">
