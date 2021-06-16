@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode1011.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode410.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode875.h">
+			<Option target="Array"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/main.cpp">
 			<Option target="Array"/>
 		</Unit>
