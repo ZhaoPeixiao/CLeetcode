@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/Q1.h">
+			<Option target="HW"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/Q2.h">
+			<Option target="HW"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/Q3.h">
+			<Option target="HW"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/HW/leecode70.h">
 			<Option target="HW"/>
 		</Unit>

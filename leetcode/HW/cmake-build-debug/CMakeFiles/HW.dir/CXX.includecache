@@ -6,17 +6,27 @@
 
 #IncludeRegexTransform: 
 
-D:/Workshop/CLeetcode/leetcode/HW/leetcode752.h
-stdio.h
+D:/Workshop/CLeetcode/leetcode/HW/Q3.h
+vector
 -
-stdlib.h
+string
 -
-limits.h
+iostream
+-
+stack
 -
 
 D:/Workshop/CLeetcode/leetcode/HW/main.cpp
 iostream
 -
-leetcode752.h
-D:/Workshop/CLeetcode/leetcode/HW/leetcode752.h
+vector
+-
+string
+-
+iostream
+-
+limits
+-
+Q3.h
+D:/Workshop/CLeetcode/leetcode/HW/Q3.h
 
