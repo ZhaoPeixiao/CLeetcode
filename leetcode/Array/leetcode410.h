@@ -7,10 +7,7 @@
 
 #endif //ARRAY_LEETCODE410_H
 
-#include <iostream>
-#include <vector>
-
-using namespace std;
+#include "header.h"
 
 class Solution {
 public:

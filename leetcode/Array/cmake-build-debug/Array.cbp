@@ -80,10 +80,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/ListNode.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/header.h">
+			<Option target="Array"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode1011.h">
 			<Option target="Array"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode167.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode26.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode27.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode283.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode316.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode344.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode380.h">
+			<Option target="Array"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode410.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode496.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode503.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode710.h">
+			<Option target="Array"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode83.h">
 			<Option target="Array"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Array/leetcode875.h">

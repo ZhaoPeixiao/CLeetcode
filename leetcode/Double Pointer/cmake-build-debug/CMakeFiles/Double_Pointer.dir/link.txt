@@ -1,0 +1,3 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Double_Pointer.dir/objects.a
+G:\MinGW\bin\ar.exe cr CMakeFiles\Double_Pointer.dir/objects.a @CMakeFiles\Double_Pointer.dir\objects1.rsp
+G:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Double_Pointer.dir/objects.a -Wl,--no-whole-archive -o Double_Pointer.exe -Wl,--out-implib,libDouble_Pointer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Double_Pointer.dir\linklibs.rsp

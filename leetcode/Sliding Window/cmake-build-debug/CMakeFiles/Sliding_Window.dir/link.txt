@@ -1,0 +1,3 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Sliding_Window.dir/objects.a
+G:\MinGW\bin\ar.exe cr CMakeFiles\Sliding_Window.dir/objects.a @CMakeFiles\Sliding_Window.dir\objects1.rsp
+G:\MinGW\bin\mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\Sliding_Window.dir/objects.a -Wl,--no-whole-archive -o Sliding_Window.exe -Wl,--out-implib,libSliding_Window.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sliding_Window.dir\linklibs.rsp
