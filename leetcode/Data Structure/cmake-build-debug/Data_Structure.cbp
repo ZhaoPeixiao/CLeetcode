@@ -80,10 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/LFU.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/LRU.h">
+			<Option target="Data_Structure"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/UnionFind.h">
 			<Option target="Data_Structure"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode130.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode146.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode460.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode895.h">
 			<Option target="Data_Structure"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode990.h">

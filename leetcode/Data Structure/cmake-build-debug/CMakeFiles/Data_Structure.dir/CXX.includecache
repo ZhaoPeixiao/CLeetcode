@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Workshop/CLeetcode/leetcode/Data Structure/LRU.h
+iostream
+-
+map
+-
+
+D:/Workshop/CLeetcode/leetcode/Data Structure/main.cpp
+iostream
+-
+map
+-
+LRU.h
+D:/Workshop/CLeetcode/leetcode/Data Structure/LRU.h
+
