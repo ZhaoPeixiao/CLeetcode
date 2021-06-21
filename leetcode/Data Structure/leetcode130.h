@@ -7,12 +7,9 @@
 
 #endif //DATA_STRUCTURE_LEETCODE130_H
 
-
-#include <iostream>
-#include <vector>
+#include "header.h"
 #include "UnionFind.h"
 
-using namespace std;
 
 class Solution {
 public:

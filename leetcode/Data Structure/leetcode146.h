@@ -7,11 +7,8 @@
 
 #endif //DATA_STRUCTURE_LEETCODE146_H
 
+#include "header.h"
 
-#include <iostream>
-#include <unordered_map>
-#include <list>
-using namespace std;
 
 class LRUCache {
     size_t m_capacity;

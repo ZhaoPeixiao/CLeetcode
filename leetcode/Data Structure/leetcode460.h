@@ -8,10 +8,8 @@
 #endif //DATA_STRUCTURE_LEETCODE460_H
 
 
-#include <iostream>
-#include <unordered_map>
-#include <list>
-using namespace std;
+#include "header.h"
+
 
 class LFUCache {
 private:

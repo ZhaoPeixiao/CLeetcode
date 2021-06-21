@@ -7,13 +7,7 @@
 
 #endif //DATA_STRUCTURE_LEETCODE895_H
 
-#include <iostream>
-#include <unordered_map>
-#include <vector>
-#include <algorithm>
-#include <stack>
-
-using namespace std;
+#include "header.h"
 
 
 class FreqStack {

@@ -8,11 +8,7 @@
 #endif //DATA_STRUCTURE_LEETCODE990_H
 
 
-#include <iostream>
-#include <vector>
-#include <string>
-
-using namespace std;
+#include "header.h"
 
 class Solution {
 public:
