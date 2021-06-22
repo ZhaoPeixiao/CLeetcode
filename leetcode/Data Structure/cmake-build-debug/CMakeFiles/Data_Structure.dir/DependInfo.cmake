@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/Workshop/CLeetcode/leetcode/Data Structure/MaxHeap.cpp" "D:/Workshop/CLeetcode/leetcode/Data Structure/cmake-build-debug/CMakeFiles/Data_Structure.dir/MaxHeap.cpp.obj"
+  "D:/Workshop/CLeetcode/leetcode/Data Structure/MinHeap.cpp" "D:/Workshop/CLeetcode/leetcode/Data Structure/cmake-build-debug/CMakeFiles/Data_Structure.dir/MinHeap.cpp.obj"
   "D:/Workshop/CLeetcode/leetcode/Data Structure/main.cpp" "D:/Workshop/CLeetcode/leetcode/Data Structure/cmake-build-debug/CMakeFiles/Data_Structure.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

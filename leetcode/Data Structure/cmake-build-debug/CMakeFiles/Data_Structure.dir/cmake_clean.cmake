@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Data_Structure.dir/MaxHeap.cpp.obj"
+  "CMakeFiles/Data_Structure.dir/MinHeap.cpp.obj"
   "CMakeFiles/Data_Structure.dir/main.cpp.obj"
   "Data_Structure.exe"
   "Data_Structure.exe.manifest"

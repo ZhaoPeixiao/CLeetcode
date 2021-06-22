@@ -141,6 +141,60 @@ Data_Structure/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/build
 .PHONY : Data_Structure/fast
 
+MaxHeap.obj: MaxHeap.cpp.obj
+
+.PHONY : MaxHeap.obj
+
+# target to build an object file
+MaxHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MaxHeap.cpp.obj
+.PHONY : MaxHeap.cpp.obj
+
+MaxHeap.i: MaxHeap.cpp.i
+
+.PHONY : MaxHeap.i
+
+# target to preprocess a source file
+MaxHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MaxHeap.cpp.i
+.PHONY : MaxHeap.cpp.i
+
+MaxHeap.s: MaxHeap.cpp.s
+
+.PHONY : MaxHeap.s
+
+# target to generate assembly for a file
+MaxHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MaxHeap.cpp.s
+.PHONY : MaxHeap.cpp.s
+
+MinHeap.obj: MinHeap.cpp.obj
+
+.PHONY : MinHeap.obj
+
+# target to build an object file
+MinHeap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MinHeap.cpp.obj
+.PHONY : MinHeap.cpp.obj
+
+MinHeap.i: MinHeap.cpp.i
+
+.PHONY : MinHeap.i
+
+# target to preprocess a source file
+MinHeap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MinHeap.cpp.i
+.PHONY : MinHeap.cpp.i
+
+MinHeap.s: MinHeap.cpp.s
+
+.PHONY : MinHeap.s
+
+# target to generate assembly for a file
+MinHeap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Data_Structure.dir\build.make CMakeFiles/Data_Structure.dir/MinHeap.cpp.s
+.PHONY : MinHeap.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +231,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Data_Structure
+	@echo ... MaxHeap.obj
+	@echo ... MaxHeap.i
+	@echo ... MaxHeap.s
+	@echo ... MinHeap.obj
+	@echo ... MinHeap.i
+	@echo ... MinHeap.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

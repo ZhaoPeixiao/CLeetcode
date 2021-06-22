@@ -86,6 +86,18 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/LRU.h">
 			<Option target="Data_Structure"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/MaxHeap.cpp">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/MaxHeap.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/MinHeap.cpp">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/MinHeap.h">
+			<Option target="Data_Structure"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/UnionFind.h">
 			<Option target="Data_Structure"/>
 		</Unit>
@@ -96,6 +108,15 @@
 			<Option target="Data_Structure"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode146.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode225.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode232.h">
+			<Option target="Data_Structure"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode239.h">
 			<Option target="Data_Structure"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Data Structure/leetcode295.h">
