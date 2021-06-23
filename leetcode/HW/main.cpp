@@ -21,8 +21,17 @@ using namespace std;
  * Sub BaseDisplay
  */
 
+const int Foo();
 
 int main() {
 
+    auto e = Foo();
+
+    int x;
+    auto *a = &x;
+
+    auto &c = x;
+
+    const auto f = Foo();
     return 0;
 }
