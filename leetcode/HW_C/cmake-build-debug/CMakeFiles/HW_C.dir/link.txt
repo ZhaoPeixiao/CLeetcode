@@ -1,0 +1,3 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\HW_C.dir/objects.a
+G:\MinGW\bin\ar.exe cr CMakeFiles\HW_C.dir/objects.a @CMakeFiles\HW_C.dir\objects1.rsp
+G:\MinGW\bin\mingw32-gcc.exe -g -Wl,--whole-archive CMakeFiles\HW_C.dir/objects.a -Wl,--no-whole-archive -o HW_C.exe -Wl,--out-implib,libHW_C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HW_C.dir\linklibs.rsp

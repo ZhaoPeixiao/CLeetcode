@@ -1,0 +1,4 @@
+"G:\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=G:/MinGW/bin/make.exe -DCMAKE_C_COMPILER=G:/MinGW/bin/mingw32-gcc.exe -DCMAKE_CXX_COMPILER=G:/MinGW/bin/mingw32-g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Workshop\CLeetcode\leetcode\HW_C
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Workshop/CLeetcode/leetcode/HW_C/cmake-build-debug
