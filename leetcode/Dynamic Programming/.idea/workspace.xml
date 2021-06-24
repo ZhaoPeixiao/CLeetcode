@@ -11,7 +11,20 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff93f58d-be94-4d15-acf4-c8aeb823365f" name="Default Changelist" comment="" />
+    <list default="true" id="ff93f58d-be94-4d15-acf4-c8aeb823365f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode1143.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode300.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode354.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode53.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode586.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode712.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode72.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +59,23 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dynamic_Programming" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dynamic_Programming" TARGET_NAME="Dynamic_Programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dynamic_Programming" RUN_TARGET_NAME="Dynamic_Programming">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -70,6 +89,7 @@
       <updated>1624428318326</updated>
       <workItem from="1624428321880" duration="4513000" />
       <workItem from="1624433571953" duration="94000" />
+      <workItem from="1624516525775" duration="4305000" />
     </task>
     <servers />
   </component>

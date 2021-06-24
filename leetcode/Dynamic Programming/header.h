@@ -11,6 +11,7 @@
 #include <vector>
 #include <limits.h>
 #include <string>
+#include <algorithm>
 
 using namespace std;
 
