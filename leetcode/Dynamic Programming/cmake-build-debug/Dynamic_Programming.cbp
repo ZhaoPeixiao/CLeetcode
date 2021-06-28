@@ -83,7 +83,13 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/header.h">
 			<Option target="Dynamic_Programming"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode10.h">
+			<Option target="Dynamic_Programming"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode1143.h">
+			<Option target="Dynamic_Programming"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode174.h">
 			<Option target="Dynamic_Programming"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode300.h">
@@ -110,6 +116,9 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode509.h">
 			<Option target="Dynamic_Programming"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode514.h">
+			<Option target="Dynamic_Programming"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode516.h">
 			<Option target="Dynamic_Programming"/>
 		</Unit>
@@ -123,6 +132,9 @@
 			<Option target="Dynamic_Programming"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode586.h">
+			<Option target="Dynamic_Programming"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode64.h">
 			<Option target="Dynamic_Programming"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Dynamic Programming/leetcode712.h">

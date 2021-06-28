@@ -12,14 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff93f58d-be94-4d15-acf4-c8aeb823365f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode435.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode45.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode452.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode518.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode55.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode10.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode174.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode514.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode64.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/header.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +69,9 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -88,6 +88,8 @@
       <workItem from="1624516525775" duration="4305000" />
       <workItem from="1624579917241" duration="72000" />
       <workItem from="1624601617324" duration="1278000" />
+      <workItem from="1624845658255" duration="107000" />
+      <workItem from="1624863070975" duration="2312000" />
     </task>
     <servers />
   </component>
