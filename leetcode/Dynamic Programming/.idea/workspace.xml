@@ -11,16 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff93f58d-be94-4d15-acf4-c8aeb823365f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode28.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode312.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode877.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode887.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Dynamic_Programming.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/header.h" afterDir="false" />
-    </list>
+    <list default="true" id="ff93f58d-be94-4d15-acf4-c8aeb823365f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,11 +50,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Dynamic_Programming" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Dynamic_Programming" TARGET_NAME="Dynamic_Programming" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Dynamic_Programming" RUN_TARGET_NAME="Dynamic_Programming">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -92,6 +78,7 @@
       <workItem from="1624863070975" duration="2312000" />
       <workItem from="1624930183091" duration="231000" />
       <workItem from="1624947796786" duration="2796000" />
+      <workItem from="1625017027261" duration="20000" />
     </task>
     <servers />
   </component>
