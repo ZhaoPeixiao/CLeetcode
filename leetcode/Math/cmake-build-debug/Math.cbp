@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/ListNode.h">
+			<Option target="Math"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/headers.h">
 			<Option target="Math"/>
 		</Unit>
@@ -101,16 +104,46 @@
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode231.h">
 			<Option target="Math"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode26.h">
+			<Option target="Math"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode260.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode27.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode283.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode292.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode319.h">
 			<Option target="Math"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode372.h">
 			<Option target="Math"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode382.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode398.h">
+			<Option target="Math"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode448.h">
 			<Option target="Math"/>
 		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode645.h">
+			<Option target="Math"/>
+		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode793.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode83.h">
+			<Option target="Math"/>
+		</Unit>
+		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/leetcode877.h">
 			<Option target="Math"/>
 		</Unit>
 		<Unit filename="D:/Workshop/CLeetcode/leetcode/Math/main.cpp">
